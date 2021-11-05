@@ -1,0 +1,41 @@
+0 - Middle Neon Pink
+1 - Left Neon Pink
+2 - Right Neon Pink
+3 - Left Neon Pink
+4 - Middle Neon Pink
+5 - Right Neon Pink
+6 - Left Pink Sign 1/3 TOP
+7 - Middle Pink Sign 2/3 TOP
+8 - Right Pink Sign 3/3 TOP
+9 - Right Pink Sign 1/2 TOP
+10 - Left Pink Sign 2/2 TOP
+11 - Top Left Pink Sign 1/6 TOP
+12 - Top Middle Pink Sign 2/6 TOP
+13 - Top Right Pink Sign 3/6 TOP
+14 - Bot Left Pink Sign 4/6 TOP
+15 - Bot Middle Pink Sign 5/6 TOP
+16 - Bot Right Pink Sign 6/6 TOP
+17 - END Sign
+18 - Bot Street Lamp 1/3 BOT
+19 - Middle Street Lamp 2/3 BOT
+20 - Top Street Lamp 3/3 BOT
+21 - Little Garbage Can BOT
+22 - Big Garbage Can BOT
+23 - Garbage Bag 1/3 BOT
+24 - Garbage Bag 2/3 BOT
+25 - Garbage Bag 3/3 BOT
+26 - BOT / RIGHT Yellow Pipe
+27 - BOT / LEFT Yellow Pipe
+28 - TOP / RIGHT Yellow Pipe
+29 - TOP / LEFT Yellow Pipe
+30 - TOP / BOT Yellow Pipe
+31 - RIGHT / LEFT Yellow Pipe
+32 - TOP / LEFT / BOT Yellow Pipe
+33 - TOP / RIGHT / BOT Yellow Pipe
+34 - RIGHT / LEFT / BOT Yellow Pipe
+35 - RIGHT / LEFT / TOP Yellow Pipe
+36 - QUARTER Yellow Pipe
+37 - Yellow Pipe END from LEFT
+38 - Yellow Pipe END from RIGHT
+39 - Yellow Pipe END from TOP
+40 - Yellow Pipe END from BOT
